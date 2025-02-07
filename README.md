@@ -1,4 +1,4 @@
-# RSA Cryptography Utility
+# RSA Cryptography
 
 This program is designed to make cryptography more accessible by offering an easy-to-use interface for selecting cryptographic functions.
 
