@@ -4,7 +4,9 @@ This program provides a range of cryptographic functionalities, including primal
 
 You can use this program to check if a number is prime, generate large prime numbers based on a custom bit size, and create RSA-like key pairs using two large primes. The prime number check determines whether a given integer is prime, and the custom bit-size prime generation feature allows you to specify the size of the prime number you need.
 
-For key generation, the program uses the two large prime numbers to generate an RSA-like key pair. The user-friendly menu makes it easy for you to select and execute any of these cryptographic functions, while an optimized algorithm ensures efficient and accurate primality testing.
+For key generation, the program uses two large prime numbers to generate an RSA-like key pair. The user-friendly menu makes it easy for you to select and execute any of these cryptographic functions, while an optimized algorithm ensures efficient and accurate primality testing.
+
+I created this project because I’ve always been fascinated by encryption and how it keeps our data safe. I wanted to dive deeper into the math behind encryption, particularly how prime numbers are used in RSA encryption. Building this program was a great way to understand these concepts more clearly and to make them easier for others to explore as well. It was challenging but fun to figure out how to test primes efficiently and generate keys, and I hope this tool helps you better understand encryption and maybe even inspires you to learn more about it.
 
 ## Example Output
 ```
