@@ -1,8 +1,8 @@
 # RSA Cryptography Utility
 
-This program provides a range of cryptographic functionalities, including primality testing, large prime number generation, and RSA-like key pair generation. It's designed to make cryptography more accessible by offering an easy-to-use interface for selecting cryptographic functions.
+This program is designed to make cryptography more accessible by offering an easy-to-use interface for selecting cryptographic functions.
 
-You can use this program to check if a number is prime, generate large prime numbers based on a custom bit size, and create RSA-like key pairs using two large primes. The prime number check determines whether a given integer is prime, and the custom bit-size prime generation feature allows you to specify the size of the prime number you need.
+You can use it to check if a number is prime, generate large prime numbers based on a custom bit size, and create RSA-like key pairs using two large primes. The prime number check determines whether a given integer is prime, and the custom bit-size prime generation feature allows you to specify the size of the prime number you need.
 
 For key generation, the program uses two large prime numbers to generate an RSA-like key pair. The user-friendly menu makes it easy for you to select and execute any of these cryptographic functions, while an optimized algorithm ensures efficient and accurate primality testing.
 
